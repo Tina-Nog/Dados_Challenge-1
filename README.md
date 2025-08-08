@@ -39,10 +39,10 @@ Os dados foram tratados, analisados e visualizados com gráficos para facilitar 
 ### 📊 Exemplos de Gráficos Gerados
 
 #### 🚚 Custo médio de frete por loja
-![Gráfico Frete](imagens/frete.png)
+
 
 #### ⭐ Avaliação média das lojas
-![Gráfico Avaliação](imagens/avaliacao.png)
+
 
 #### 📦 Produtos mais vendidos
-![Gráfico Produtos](imagens/produtos.png)
+
